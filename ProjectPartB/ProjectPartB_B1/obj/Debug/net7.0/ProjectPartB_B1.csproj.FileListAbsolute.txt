@@ -1,0 +1,15 @@
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/bin/Debug/net7.0/ProjectPartB_B1
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/bin/Debug/net7.0/ProjectPartB_B1.deps.json
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/bin/Debug/net7.0/ProjectPartB_B1.runtimeconfig.json
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/bin/Debug/net7.0/ProjectPartB_B1.dll
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/bin/Debug/net7.0/ProjectPartB_B1.pdb
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.csproj.AssemblyReference.cache
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.AssemblyInfoInputs.cache
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.AssemblyInfo.cs
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.csproj.CoreCompileInputs.cache
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.dll
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/refint/ProjectPartB_B1.dll
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.pdb
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.genruntimeconfig.cache
+/Users/dobich/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ref/ProjectPartB_B1.dll
